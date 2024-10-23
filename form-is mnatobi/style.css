@@ -1,0 +1,32 @@
+label{
+    margin: 10px;
+    color: blueviolet;
+}
+button{
+ border-radius:50px; 
+ border: 3px;
+ color: cyan;
+ background-color: black;
+
+}
+h1{
+    color: blueviolet;
+}
+input{
+    margin: 10px;
+    border-color: blueviolet;
+}
+
+body{
+    background-color:lightpink
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+button:hover{
+    color: black;
+    background-color: azure;
+}
